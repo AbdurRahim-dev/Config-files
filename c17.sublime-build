@@ -1,0 +1,6 @@
+
+  
+{
+	"shell_cmd": "g++ -std=c++17 \"$file_name\" -o \"$file_base_name\" && timeout 4s ./\"$file_base_name\"<~/Documents/my_code/input.in>~/Documents/my_code/output.out",
+	"selector": "source.c++"
+}
