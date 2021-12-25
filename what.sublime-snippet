@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+/*
+	What am I even doing? 
+	what is life? 
+	What is purpose? 
+	what is ..... Happiness? 
+	What to do? 
+	what is time? 
+	What is achivement? 
+	what is inside my heart? 
+	What is beauty? 
+	what is love? 
+	What is hate? 
+	what is feeling? 
+	What is falling? 
+	How my is goona end? 
+
+						Author: NINETRACKMIND
+*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>What</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
